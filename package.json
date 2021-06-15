@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-min-dtype",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Determine the minimum array data type of the closest kind necessary for storing a provided scalar value.",
   "license": "Apache-2.0",
   "author": {
