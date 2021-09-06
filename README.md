@@ -129,6 +129,22 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/array/dtypes`][@stdlib/array/dtypes]: list of array data types.
+-   [`@stdlib/array/promotion-rules`][@stdlib/array/promotion-rules]: return the array data type with the smallest size and closest kind to which array data types can be safely cast.
+-   [`@stdlib/array/safe-casts`][@stdlib/array/safe-casts]: return a list of array data types to which a provided array data type can be safely cast.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -186,7 +202,15 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-min-dtype/main/LICENSE
 
+<!-- <related-links> -->
+
 [@stdlib/array/dtypes]: https://github.com/stdlib-js/array-dtypes
+
+[@stdlib/array/promotion-rules]: https://github.com/stdlib-js/array-promotion-rules
+
+[@stdlib/array/safe-casts]: https://github.com/stdlib-js/array-safe-casts
+
+<!-- </related-links> -->
 
 </section>
 
