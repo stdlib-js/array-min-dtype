@@ -20,7 +20,7 @@ limitations under the License.
 
 # Minimum Data Type
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Determine the minimum array [data type][@stdlib/array/dtypes] of the closest "kind" necessary for storing a provided scalar value.
 
@@ -190,8 +190,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-min-dtype/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-min-dtype?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/array-min-dtype.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/array-min-dtype/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
