@@ -37,6 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/assert-is-complex-like": "^0.0.x",
+    "@stdlib/constants-float32-max-safe-integer": "^0.0.x",
+    "@stdlib/constants-float32-min-safe-integer": "^0.0.x",
     "@stdlib/constants-float32-smallest-subnormal": "^0.0.x",
     "@stdlib/constants-float64-ninf": "^0.0.x",
     "@stdlib/constants-float64-pinf": "^0.0.x",
@@ -52,6 +55,8 @@
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
+    "@stdlib/complex-float32": "^0.0.x",
+    "@stdlib/complex-float64": "^0.0.x",
     "@stdlib/math-base-special-pow": "^0.0.x",
     "@stdlib/math-base-special-roundn": "^0.0.x",
     "@stdlib/random-base-discrete-uniform": "^0.0.x",
