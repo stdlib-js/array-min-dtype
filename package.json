@@ -50,7 +50,8 @@
     "@stdlib/constants-uint32-max": "^0.0.x",
     "@stdlib/constants-uint8-max": "^0.0.x",
     "@stdlib/math-base-assert-is-integer": "^0.0.x",
-    "@stdlib/math-base-assert-is-negative-zero": "^0.0.x"
+    "@stdlib/math-base-assert-is-negative-zero": "^0.0.x",
+    "@stdlib/types": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.0.x",
