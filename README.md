@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@esm/index.mjs';
+import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@v0.2.1-esm/index.mjs';
 ```
 
 #### minDataType( value )
@@ -107,7 +107,7 @@ import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roun
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@esm/index.mjs';
+import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@v0.2.1-esm/index.mjs';
 
 var dt;
 var v;
