@@ -55,8 +55,8 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/complex-float32": "^0.2.1",
-    "@stdlib/complex-float64": "^0.2.1",
+    "@stdlib/complex-float32-ctor": "github:stdlib-js/complex-float32-ctor#main",
+    "@stdlib/complex-float64-ctor": "github:stdlib-js/complex-float64-ctor#main",
     "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/math-base-special-roundn": "^0.2.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
