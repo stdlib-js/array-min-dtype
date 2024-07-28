@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-min-dtype/tags). For example,
+
+```javascript
 import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@v0.3.0-deno/mod.js';
 ```
 
@@ -102,7 +107,7 @@ import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roun
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@v0.3.0-deno/mod.js';
+import minDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-min-dtype@deno/mod.js';
 
 var dt;
 var v;
