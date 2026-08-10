@@ -2,6 +2,52 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-10)
+
+<section class="features">
+
+### Features
+
+-   [`800db1b`](https://github.com/stdlib-js/stdlib/commit/800db1bdcd2d4e3fa76067addd8395f006cea5ad) - add float16 dtype support to `array/min-dtype` [(#14018)](https://github.com/stdlib-js/stdlib/pull/14018)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`800db1b`](https://github.com/stdlib-js/stdlib/commit/800db1bdcd2d4e3fa76067addd8395f006cea5ad) - **feat:** add float16 dtype support to `array/min-dtype` [(#14018)](https://github.com/stdlib-js/stdlib/pull/14018) _(by Samarth Kolarkar, Athan Reines, gururaj1512)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+-   Samarth Kolarkar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
